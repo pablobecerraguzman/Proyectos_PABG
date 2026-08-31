@@ -1,0 +1,6 @@
+{
+  "name": "Portal Corporativo de Versiones y Despliegues",
+  "description": "Sistema corporativo para la gestión de versiones de clientes, historial de cambios, fechas de despliegue, panel de administración con control de usuarios y notificaciones de errores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
